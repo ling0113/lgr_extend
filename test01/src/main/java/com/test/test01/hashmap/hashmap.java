@@ -22,6 +22,7 @@ public class hashmap {
         LinkedList<Object> objects1 = new LinkedList<>();
         boolean a = map.get(1).equals("a");
         System.out.println(a);
+        System.out.println(a);
 
 
     }
